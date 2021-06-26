@@ -37,7 +37,7 @@ class Search extends Component {
         })
         this.props.getUserEditInfo(info)
     }
-
+// 
     hienThiFormEdit = () => {
         if (this.props.trangThaiShowTableEditSearch=== true) {
             return (
